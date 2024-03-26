@@ -1,0 +1,135 @@
+*{
+
+	background-color: #161b27;
+
+}
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0px;
+}
+
+header {
+
+	background-color:midnightblue;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	border-radius: 10px;
+}
+
+header h1 {
+
+	background-color:inherit;
+	margin-right: 30px;
+	padding: 20px;
+	white-space: nowrap;
+	
+}
+
+header p {
+	font-size: 16px;
+	margin: 5px 0;
+}
+
+#foto {
+	position:relative;
+	overflow: hidden;
+	float: left;
+	margin-left: 10px;
+	background-color: inherit;
+	
+}
+
+#foto img {
+	background-color: inherit;
+	width: 30%;
+	height: 30%;
+	padding: 20px;
+	
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	background-color: inherit;
+}
+
+section {
+
+	border-radius: 10px;
+	margin-top: 20px;
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #fff;
+}
+
+section h2 {
+	background-color: inherit;
+	font-size: 18px;
+	margin-top: 0;
+	display: inline-block;
+}
+
+section ul {
+	background-color: inherit;
+	list-style: none;
+	padding: 0;
+}
+
+.logo {
+	background-color: inherit;
+	width: 70px;
+	height: 70px;
+	border-radius: 5px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+#contato {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+a {
+	background-color: inherit;
+	display: inline-block;
+	text-decoration: none;
+	height: 70px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+} 
+
+p{
+
+	background-color: inherit;
+
+}
+
+li{
+
+	background-color: inherit;
+}
+
+h3{
+
+	background-color: inherit;
+
+}
+
+div{
+
+	background-color: inherit;
+
+}
